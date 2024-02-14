@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Busraozturkk29@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/-busraozturk](www.linkedin.com/in/-busraozturk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
