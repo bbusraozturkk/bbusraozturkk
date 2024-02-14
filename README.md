@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 💬 Ask me about **react,kotlin**
+- 💬 Ask me about **React, Kotlin**
 
 - 📫 How to reach me **Busraozturkk29@outlook.com**
 
