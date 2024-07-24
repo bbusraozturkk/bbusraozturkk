@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Kotlin**
 
-- 📫 How to reach me **Busraozturkk29@outlook.com**
+- 📫 How to reach me **se_busraozturk@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
