@@ -21,23 +21,30 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <!-- Frontend -->
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+
+  <!-- Backend -->
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/json-web-token.png" alt="JWT"/>
+  <img src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
+  <img src="https://img.icons8.com/color/48/swagger.png" alt="Swagger"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-api-web-development-flat-flat-juicy-fish.png" alt="REST API"/>
+
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
 </p>
 
 ---
