@@ -35,7 +35,6 @@
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" alt="JWT" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Swagger"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="REST API" width="48" height="48"/>
