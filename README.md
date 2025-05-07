@@ -35,10 +35,10 @@
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/json-web-token.png" alt="JWT"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jwt-json-web-token-an-open-standard-that-defines-a-compact-and-self-contained-way-for-secure-transmitting-information-logo-color-tal-revivo.png" alt="JWT"/>
   <img src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
-  <img src="https://img.icons8.com/color/48/swagger.png" alt="Swagger"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-api-web-development-flat-flat-juicy-fish.png" alt="REST API"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Swagger"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-api-web-flaticons-lineal-color-flat-icons-2.png" alt="REST API"/>
 
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
