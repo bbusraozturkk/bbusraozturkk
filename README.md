@@ -28,7 +28,8 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS"/>
-  <img src="https://img.icons8.com/fluency/48/redux.png" alt="Redux"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="48" height="48"/>
+
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Zustand" width="48" height="48"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48"/>
@@ -40,15 +41,21 @@
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
-  <img src="https://img.icons8.com/fluency/48/sqlite.png" alt="SQLite"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="48" height="48"/>
+
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Swagger"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="REST API" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-code-programming-and-development-flat-flat-juicy-fish.png" alt="LINQ"/>
-  <img src="https://img.icons8.com/external-others-bomsymbols-/48/external-ef-entity-framework-others-bomsymbols-.png" alt="Entity Framework"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-automapper-a-convention-based-object-object-mapper-logo-shadow-tal-revivo.png" alt="AutoMapper"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-serilog-simple-.net-logging-with-serilog-logo-color-tal-revivo.png" alt="Serilog"/>
-  <img src="https://img.icons8.com/color/48/nlog.png" alt="NLog"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LINQ_Logo.png" alt="LINQ" width="48" height="48"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Entity_Framework_Logo.png" alt="Entity Framework" width="48" height="48"/>
+
+  <img src="https://raw.githubusercontent.com/AutoMapper/AutoMapper/master/Assets/AutoMapper.png" alt="AutoMapper" width="48" height="48"/>
+
+  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-512.png" alt="Serilog" width="48" height="48"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/NLog_Logo.png" alt="NLog" width="48" height="48"/>
+
 
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
