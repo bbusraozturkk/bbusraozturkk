@@ -3,7 +3,7 @@
 
 - 🔭 Currently developing Fullstack web applications with modern Frontend and Backend technologies.
 
-- 💬 Ask me about **backend development with .NET Core, C#, Entity Framework, SQL Server, and API design**, as well as **frontend development using React, TypeScript, and modern UI frameworks.**
+- 💬 Ask me about **backend development with .NET, C#, Entity Framework, SQL Server, and API design**, as well as **frontend development using React, TypeScript, and modern UI frameworks.**
 
 - 📫 How to reach me: **se_busraozturk@outlook.com**
 
