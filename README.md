@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Büşra</h1>
 <h3 align="center">A passionate Fullstack Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **FullStack Development**
+- 🔭 Currently developing Fullstack web applications with modern Frontend and Backend technologies.
 
-- 💬 Ask me about **C#, .NET, JavaScript, React, SQL...**
+- 💬 Ask me about **backend development with .NET Core, C#, Entity Framework, SQL Server, and API design**, as well as **frontend development using React, TypeScript, and modern UI frameworks.**
 
 - 📫 How to reach me: **se_busraozturk@outlook.com**
 
