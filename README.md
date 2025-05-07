@@ -46,16 +46,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Swagger"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" alt="REST API" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LINQ_Logo.png" alt="LINQ" width="48" height="48"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Entity_Framework_Logo.png" alt="Entity Framework" width="48" height="48"/>
-
-  <img src="https://raw.githubusercontent.com/AutoMapper/AutoMapper/master/Assets/AutoMapper.png" alt="AutoMapper" width="48" height="48"/>
-
-  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-512.png" alt="Serilog" width="48" height="48"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/NLog_Logo.png" alt="NLog" width="48" height="48"/>
-
 
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
